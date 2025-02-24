@@ -1,4 +1,4 @@
-# Support for Arm Cortex-R
+# Arm Cortex-A Run-Time
 
 ## Minimum Supported Rust Version (MSRV)
 
